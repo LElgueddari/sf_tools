@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-"""CREEPY PACKAGE
+"""SF-Tools PACKAGE
 
 This package contains modules for astrophysics, cosmology and signal
 processing.
@@ -9,6 +9,6 @@ processing.
 
 :Version: 1.0
 
-:Date: 06/04/2017
+:Date: 23/10/2017
 
 """
